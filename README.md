@@ -1,4 +1,4 @@
-# VAE
+# Variational Auto Encoders
 This code implements a Variational Autoencoder (VAE) for generating and manipulating facial images using TensorFlow and Keras. Here's a brief description and definition of major concepts:
 
 1. **Variational Autoencoder (VAE):**
